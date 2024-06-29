@@ -1,1 +1,1 @@
-worker: Auto.py
+worker: IG.py
