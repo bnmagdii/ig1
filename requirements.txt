@@ -1,7 +1,5 @@
-request
-tim
-sys
-user_agent
-hashlib
-termcolor
-cprint
+import requests, re, random, os, sys
+from rich import print as g
+from rich.panel import Panel
+from threading import Thread
+from cfonts import render, say
